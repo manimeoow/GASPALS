@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Levels/DefaultLevel.umap",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Component/AC_Combat.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo5.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo6.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo7.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo8.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo_B6.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo_B7.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo_B8.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo_B9.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Heavy3.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Evade1.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Evade.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Evade1_Montage.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Heavy3_Montage.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo5_Montage.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo7_Montage.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo8_Montage.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo_B8_Montage.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/NotifyStates/State_InputDisabled.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Component/BI_CombatComponent.uasset"
+			]
+		}
+	]
+}
