@@ -26,7 +26,16 @@
 				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo8_Montage.uasset",
 				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/ARPG_Samurai_Anim_UE_Attack_Combo_B8_Montage.uasset",
 				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/ARPG_Samurai/Animations_UE5/NotifyStates/State_InputDisabled.uasset",
-				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Component/BI_CombatComponent.uasset"
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Component/BI_CombatComponent.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Input/Actions/IA_Enter.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Input/Actions/IA_Exit.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Input/IA_Enter.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/Input/IMC_Sandbox.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"Z:/Abertay/Honours/TaTakai_GASPALS/GASPALS/Content/VehicleTemplate/Blueprints/BPI_VehicleInteraction.uasset"
 			]
 		}
 	]
